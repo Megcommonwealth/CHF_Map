@@ -9,7 +9,9 @@ They are stored as a single block of text in data/sitesv2_1.js and can be direct
 
 Adding links in the description via the Google Collab script should have the following syntax, fill in link and word to be hyperlinked as appropriate
 
-The Commonwealth Heritage Forum facilitated the delivery of the  <a href=\"https://www.brookes.ac.uk/research/units/tde/projects/endangered-wooden-architecture-programme\" target=\"_blank\" rel=\"\">EWAP</a>  (Endangered Wooden Architecture Programme) project in Freetown, Sierra Leone. EWAP supports the documentation of endangered wooden architecture across the world and is hosted by Oxford Brookes University
+    The Commonwealth Heritage Forum facilitated a ‘Train the Trainers’ programme, delivering a series of intensive, hands-on workshops for tutors from Barbados’ technical colleges. Held on-site at the former hospital for enslaved people at Blackman’s Plantation, the training focused on traditional skills, including masonry and plastering, timber repair, and lime work. .&nbsp;<a href=\"https://www.commonwealthheritage.org/barbados-completion-of-programme/ \" target=\"_blank\" rel=\"\">Read more about this project.</a>"}
+
+In the above example, replace the link with your own. The part that starts with "rel=\" and ends with </a>" is the text that will become a hyperlink.
 
 # Don't worry about this unless making from scratch in QGIS2WEB
 Apply these settings to the end of the qgis2web .css file if creating from scratch in QGIS2Web
